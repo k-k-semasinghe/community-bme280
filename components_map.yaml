@@ -1,0 +1,4 @@
+sensors:
+  bme280:
+    name: esp-idf-lib/bme280
+    version: ^1
