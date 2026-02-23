@@ -1,0 +1,12 @@
+id: bme280
+name: BME280 Sensor
+vendor: Bosch
+bus: i2c
+description: Temp/Pressure/Humidity sensor
+component:
+  name: esp-idf-lib/bme280
+  version: ^1
+defaults:
+  rate_hz: 5
+  i2c:
+    addr: 0x76
