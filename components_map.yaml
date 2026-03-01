@@ -1,0 +1,4 @@
+sensors:
+  bme280:
+    source: local
+    name: community_bme280

@@ -1,0 +1,4 @@
+menu:
+  - id: bme280_overview
+    title: "BME280"
+    screen: "bme280_summary"
